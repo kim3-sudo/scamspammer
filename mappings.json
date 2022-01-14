@@ -11,5 +11,5 @@
   "cvv": "cvv_creditcard",
   "month": "monthexp_creditcard",
   "year": "yearexp_creditcard",
-  "submit", "submit-button"
+  "submit": "submit-button"
 ]
