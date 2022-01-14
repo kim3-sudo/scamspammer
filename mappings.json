@@ -1,0 +1,15 @@
+[
+  "first": "firstname",
+  "last": "lastname",
+  "email": "emailaddress",
+  "phone": "phonenumber",
+  "address": "address",
+  "city": "city",
+  "state": "state",
+  "zip": "zipcode",
+  "number": "creditcardnumber_creditcard",
+  "cvv": "cvv_creditcard",
+  "month": "monthexp_creditcard",
+  "year": "yearexp_creditcard",
+  "submit", "submit-button"
+]
